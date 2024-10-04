@@ -12,7 +12,7 @@ public class ModItems {
      public static final Item MITHRIL = registerItem("mithril", new Item(new Item.Settings()));
      public static final Item RAW_MITHRIL = registerItem("raw_mithril", new Item(new Item.Settings()));
      public static final Item DWARF_IRON = registerItem("dwarf_iron", new Item(new Item.Settings()));
-
+     public static final Item ANGBAND = registerItem("angband", new Item(new Item.Settings()));
 
 
     private static Item registerItem(String name, Item item) {
@@ -26,6 +26,7 @@ public class ModItems {
             entries.add(MITHRIL);
             entries.add(RAW_MITHRIL);
             entries.add(DWARF_IRON);
+            entries.add(ANGBAND);
         });
     }
 }

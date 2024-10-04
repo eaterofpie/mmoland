@@ -4,5 +4,9 @@
 
 
   "block.realmmod.mithril_leaves": "mithril_leaves",
-  "block.realmmod.mithril_log": "mithril_log"
+  "block.realmmod.mithril_log": "mithril_log",
+  "block.realmmod.mithril_ore": "mithril_ore",
+  "block.realmmod.mithril_stone": "mithirl_stone",
+  "block.realmmod.mithril": "mithril_brick",
+  "block.realmmod.deepslate_mithril_ore": "deepslate_mithril_ore"
 }
